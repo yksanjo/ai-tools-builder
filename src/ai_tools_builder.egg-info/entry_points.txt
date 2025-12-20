@@ -1,0 +1,2 @@
+[console_scripts]
+ai-tools-builder = ai_tools_builder.cli:main
