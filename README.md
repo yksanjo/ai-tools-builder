@@ -1,5 +1,12 @@
 # ai-tools-builder
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/ai-tools-builder/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/ai-tools-builder/actions)
+![License](https://img.shields.io/github/license/yksanjo/ai-tools-builder)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/ai-tools-builder)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/ai-tools-builder)
+
 ## Detailed Description
 
 ai-tools-builder is maintained as an industry-grade software project with production-ready engineering practices.  
